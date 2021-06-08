@@ -1,5 +1,5 @@
 ---
-# tasks file for masterrole
+# tasks file for slaverole
  - name: Installing docker package
    package: 
          name: docker
